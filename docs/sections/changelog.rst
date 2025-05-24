@@ -8,6 +8,13 @@ All notable changes to this project will be documented in this file.
 Unreleased
 ==========
 
+Nothing yet.
+
+0.8.4
+=====
+
+*2025-05-24*
+
 * Added: test package against Python 3.12 and 3.13.
 * Added: test package against Django 5.
 * Added: support of max_age parameter on authorization request.
